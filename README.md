@@ -1,5 +1,6 @@
 # FYP-loan-status-prediction
 Abstract: 
+
 In the realm of financial services, predicting loan grades plays a vital role in assessing the 
 creditworthiness of borrowers and managing the risk associated with lending operations. This 
 study conducts a comparative analysis of different machine learning algorithms for predicting 
